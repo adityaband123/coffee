@@ -1,7 +1,7 @@
 package exception_handling;
 
 
-//costome exceptions:
+//custom exceptions:
                     //user can define his own exceptions 
 class UndreAgeException extends Exception{
     UndreAgeException(){
